@@ -28,6 +28,6 @@
 
 <p align="center"><b>Platforms · Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apple,android,git,cmake,vscode" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=linux,apple,androidstudio,git,cmake,vscode" alt="tools" />
 </p>
 <p align="center"><sub><code>iOS</code> · <code>GStreamer</code> · <code>Mongoose</code></sub></p>
