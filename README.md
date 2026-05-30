@@ -6,15 +6,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🤖 I build software for **robotics platforms** and **embedded systems**
-- 👁️ I work with **computer vision**, **machine learning** and **autonomous systems**
-- 🧠 Exploring **LLM-powered applications** with LangChain / LangGraph
-- 🛠️ Comfortable from low-level firmware up to high-level Python services
-
----
-
 ### 🧰 Languages & Tools
 
 #### Languages
