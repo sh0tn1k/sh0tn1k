@@ -13,9 +13,12 @@
 
 <p align="center"><b>AI · ML · Computer Vision</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="ai" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="ai" />
 </p>
-<p align="center"><sub><code>LangChain</code> · <code>LangGraph</code> · <code>RKNN</code> · <code>librga</code></sub></p>
+<p align="center"><sub><b>LLMs &amp; Agents:</b> <code>LangChain</code> · <code>LangGraph</code> · <code>RAG</code> · <code>AI Agents</code> · <code>Prompt Engineering</code></sub></p>
+<p align="center"><sub><b>Deep Learning:</b> <code>Neural Networks</code> · <code>CNNs</code> · <code>Model Training</code> · <code>Transfer Learning</code></sub></p>
+<p align="center"><sub><b>Computer Vision:</b> <code>Object Detection</code> · <code>Segmentation</code> · <code>Tracking</code> · <code>Image Processing</code></sub></p>
+<p align="center"><sub><b>Edge AI &amp; Inference:</b> <code>RKNN</code> · <code>librga</code> · <code>ONNX</code> · <code>TensorRT</code> · <code>Quantization</code> · <code>NPU Acceleration</code></sub></p>
 
 <p align="center"><b>Robotics · Embedded · Edge</b></p>
 <p align="center">
